@@ -2,6 +2,7 @@
   "name": "Lucky Bookmark",
   "version": "1.0",
   "description": "Get a random/lucky bookmark.",
+  "version": "1.0",
   "manifest_version": 2,
   "background": {
     "scripts": [
